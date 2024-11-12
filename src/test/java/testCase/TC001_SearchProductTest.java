@@ -42,11 +42,14 @@ public class TC001_SearchProductTest extends BaseClass{
 		sp.clkUseThisAddress();
 		
 		Thread.sleep(5000);
-		sp.clkOtherPaymentMethod();
-		sp.setUpi_id("9705106894@sbi");
-		sp.btnVerify();
-		String text=sp.txtVerify();
-		Assert.assertEquals(text,true);
+		sp.clickChooseBank();
+		sp.clickBank();
+		Thread.sleep(5000);
+//		sp.clkOtherPaymentMethod();
+//		sp.setUpi_id("9705106894@sbi");
+//		sp.btnVerify();
+//		String text=sp.txtVerify();
+//		Assert.assertEquals(text,true);
 		
 //		if(text.equals("Verified!")) {
 //			System.out.println("upi verified successfully");

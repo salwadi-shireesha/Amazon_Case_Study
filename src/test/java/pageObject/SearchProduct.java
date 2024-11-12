@@ -27,8 +27,14 @@ public class SearchProduct extends BasePage{
 	@FindBy(xpath="//input[@data-testid='Address_selectShipToThisAddress']")
 	WebElement clk_usethis_address;
 	
-	@FindBy(xpath="//input[@type='radio' ][ @id='pp-glKcdj-100']")
+	@FindBy(xpath="//input[@type='radio' ][ @id='pp-OazFdz-106']")
 	WebElement clk_otherpaymentmethod;
+	
+	@FindBy(xpath="//span[@class='a-button-text a-declarative']")
+	WebElement clk_choosebank;
+	
+	@FindBy(linkText="State Bank of India")
+	WebElement clk_bank;
 	
 	@FindBy(xpath="//input[@id='pp-glKcdj-114']")
 	WebElement txt_upiid;
@@ -39,7 +45,7 @@ public class SearchProduct extends BasePage{
 	@FindBy(xpath="//div[@class=\"a-alert-content\"][text()='Verified!']")
 	WebElement txt_verify;
 	
-	@FindBy(xpath="//input[@data-pmts-component-id=\"pp-FFyEnM-6\"]")
+	@FindBy(xpath="//span[@id=\"pp-4dCPfy-146\"]")
 	WebElement clk_usethis_payment;
 	
 	public void clickSearch() {
@@ -81,5 +87,13 @@ public class SearchProduct extends BasePage{
 	
 	public void clkUseThisPayment() {
 		clk_usethis_payment.click();
+	}
+	
+	public void clickChooseBank() {
+		clk_choosebank.click();
+	}
+	
+	public void clickBank() {
+		clk_bank.click();
 	}
 }

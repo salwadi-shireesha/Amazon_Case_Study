@@ -535,3 +535,140 @@
 2024-11-12 17:49:04 INFO  TC001_SearchProductTest:35 - clicked on search
 2024-11-12 17:49:14 INFO  TC001_SearchProductTest:40 - item added to cart
 2024-11-12 17:51:05 INFO  TC001_SearchProductTest:62 - ****** TC001 not executed successfully ******
+2024-11-12 18:05:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 18:05:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 18:06:19 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 18:06:36 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 18:06:40 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 18:06:49 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 18:07:58 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 18:07:59 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 18:08:22 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 18:08:41 INFO  TC001_SearchProductTest:62 - ****** TC001 not executed successfully ******
+2024-11-12 18:08:45 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 18:08:48 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 18:08:56 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 18:10:45 INFO  TC001_SearchProductTest:62 - ****** TC001 not executed successfully ******
+2024-11-12 18:21:30 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 18:21:31 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 18:22:03 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 18:22:30 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 18:22:36 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 18:22:45 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 18:22:48 INFO  TC001_SearchProductTest:64 - ****** TC001 not executed successfully ******
+2024-11-12 18:23:18 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 18:23:19 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 18:23:40 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 18:23:57 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 18:24:07 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 18:24:15 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 18:24:26 INFO  TC001_SearchProductTest:64 - ****** TC001 not executed successfully ******
+2024-11-12 18:25:04 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\AppData\Local\Temp\testng-eclipse--758636675\testng-customsuite.xml"
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 15 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:25:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\AppData\Local\Temp\testng-eclipse--758636675\testng-customsuite.xml
+
+2024-11-12 18:25:05 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 8 ms.
+2024-11-12 18:25:23 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 18:25:38 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 18:25:44 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 18:25:52 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 18:26:11 INFO  TC001_SearchProductTest:65 - ****** TC001 not executed successfully ******
+2024-11-12 18:26:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@3104351d: 157 ms
+2024-11-12 18:26:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@77d18d0b: 0 ms
+2024-11-12 18:26:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@2e140e59: 15 ms
+2024-11-12 18:26:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@70e02081: 48 ms
+2024-11-12 18:26:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a389173: 15 ms
+2024-11-12 18:26:12 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@213860b8: 0 ms
+2024-11-12 18:26:56 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\AppData\Local\Temp\testng-eclipse-737636474\testng-customsuite.xml"
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 18 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-11-12 18:26:56 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\AppData\Local\Temp\testng-eclipse-737636474\testng-customsuite.xml
+
+2024-11-12 18:26:56 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 10 ms.
+2024-11-12 18:27:07 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 18:27:23 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 18:27:27 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 18:27:35 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 18:29:31 INFO  TC001_SearchProductTest:65 - ****** TC001 not executed successfully ******
+2024-11-12 18:29:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@55f8669d: 220 ms
+2024-11-12 18:29:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@6be25526: 3 ms
+2024-11-12 18:29:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@1b005a0b: 13 ms
+2024-11-12 18:29:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@121c54fa: 16 ms
+2024-11-12 18:29:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@6ed06f69: 16 ms
+2024-11-12 18:29:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3015db78: 0 ms
+2024-11-12 18:31:40 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 18:31:40 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 18:31:50 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 18:32:05 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 18:32:13 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 18:32:21 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 18:34:17 INFO  TC001_SearchProductTest:65 - ****** TC001 not executed successfully ******
