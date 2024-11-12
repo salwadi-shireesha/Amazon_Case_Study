@@ -31,15 +31,15 @@ public class TC001_SearchProductTest extends BaseClass{
 		logger.info("enter");
 		
 		sp.clickSearch();
+		logger.info("clicked on search");
 		Thread.sleep(5000);
 		
 		sp.btnAddtoCart();
 		sp.clkAddtoCartItem();
+		logger.info("item added to cart");
 		sp.clkProceedtoBuy();
 		
-		
-		logger.info("clicked on search");
-		logger.info("exceuted successfully");
+		logger.info("executed successfully");
 		}
 		catch(Exception e)
 		{

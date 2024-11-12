@@ -11,7 +11,7 @@ import testBase.BaseClass;
 
 public class TC001_AccountRegistrationTest extends BaseClass{
 
-	@Test()
+	@Test(groups="Sanity")
 	public void account_registration() {
 		
 		logger.info("*****Starting TC001_Account_RegistrationTest *****");

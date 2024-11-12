@@ -442,3 +442,13 @@
 2024-11-12 08:24:26 INFO  TC001_SearchProductTest:15 - ****** TC001 Searching the product ******
 2024-11-12 08:24:41 INFO  TC001_SearchProductTest:31 - enter
 2024-11-12 08:26:32 INFO  TC001_SearchProductTest:46 - ****** TC001 not executed successfully ******
+2024-11-12 10:35:27 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\grouping.xml"
+2024-11-12 10:36:08 INFO  TC001_SearchProductTest:15 - ****** TC001 Searching the product ******
+2024-11-12 10:36:43 INFO  TC001_SearchProductTest:31 - enter
+2024-11-12 10:36:49 INFO  TC001_SearchProductTest:34 - clicked on search
+2024-11-12 10:38:35 INFO  TC001_SearchProductTest:46 - ****** TC001 not executed successfully ******
+2024-11-12 10:42:33 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\grouping.xml"
+2024-11-12 10:42:52 INFO  TC001_SearchProductTest:15 - ****** TC001 Searching the product ******
+2024-11-12 10:43:07 INFO  TC001_SearchProductTest:31 - enter
+2024-11-12 10:43:15 INFO  TC001_SearchProductTest:34 - clicked on search
+2024-11-12 10:45:00 INFO  TC001_SearchProductTest:46 - ****** TC001 not executed successfully ******
