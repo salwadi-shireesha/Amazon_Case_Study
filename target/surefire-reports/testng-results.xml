@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-12T08:23:58 IST" name="Master Suite" finished-at="2024-11-12T08:26:33 IST" duration-ms="155149">
+    <groups>
+      <group name="Master">
+        <method signature="TC001_SearchProductTest.searchProduct()[pri:0, instance:testCase.TC001_SearchProductTest@7a1a14a4]" name="searchProduct" class="testCase.TC001_SearchProductTest"/>
+      </group> <!-- Master -->
+    </groups>
+    <test started-at="2024-11-12T08:23:58 IST" name="Test" finished-at="2024-11-12T08:26:33 IST" duration-ms="155149">
+      <class name="testCase.TC001_SearchProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCase.TC001_SearchProductTest@7a1a14a4]" started-at="2024-11-12T08:23:58 IST" name="setUp" finished-at="2024-11-12T08:24:26 IST" duration-ms="27782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchProduct()[pri:0, instance:testCase.TC001_SearchProductTest@7a1a14a4]" started-at="2024-11-12T08:24:26 IST" name="searchProduct" finished-at="2024-11-12T08:26:32 IST" duration-ms="125879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC001_SearchProductTest@7a1a14a4]" started-at="2024-11-12T08:26:32 IST" name="tearDown" finished-at="2024-11-12T08:26:33 IST" duration-ms="1317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCase.TC001_SearchProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Master Suite -->
+</testng-results>
