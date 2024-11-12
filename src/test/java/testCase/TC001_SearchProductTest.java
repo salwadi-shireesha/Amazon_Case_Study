@@ -2,6 +2,7 @@ package testCase;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import pageObject.HomePage;
@@ -25,7 +26,7 @@ public class TC001_SearchProductTest extends BaseClass{
 		lt.setPassword(p.getProperty("password"));
 		lt.buttonSignin();
 		
-		hp.textEnterInSearch("Samsung galaxy");
+		hp.textEnterInSearch("samsung galaxy s24 ultra 5g");
 		Thread.sleep(5000);
 		SearchProduct sp=new SearchProduct(driver);
 		logger.info("enter");
@@ -35,12 +36,27 @@ public class TC001_SearchProductTest extends BaseClass{
 		Thread.sleep(5000);
 		
 		sp.btnAddtoCart();
-		sp.clkAddtoCartItem();
+		sp.clkAddtoCartIcon();
 		logger.info("item added to cart");
 		sp.clkProceedtoBuy();
+		sp.clkUseThisAddress();
 		
-		logger.info("executed successfully");
-		}
+		Thread.sleep(5000);
+		sp.clkOtherPaymentMethod();
+		sp.setUpi_id("9705106894@sbi");
+		sp.btnVerify();
+		String text=sp.txtVerify();
+		Assert.assertEquals(text,true);
+		
+//		if(text.equals("Verified!")) {
+//			System.out.println("upi verified successfully");
+//		}
+//		logger.info("executed successfully");
+//		}else {
+//			System.out.println("upi not verified successfully");
+		
+		sp.clkUseThisPayment();
+	}
 		catch(Exception e)
 		{
 			logger.info("****** TC001 not executed successfully ******");

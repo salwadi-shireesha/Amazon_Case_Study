@@ -2,23 +2,23 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-12T10:42:33 IST" name="Master Suite" finished-at="2024-11-12T10:45:01 IST" duration-ms="147993">
+  <suite started-at="2024-11-12T17:19:56 IST" name="Master Suite" finished-at="2024-11-12T17:22:21 IST" duration-ms="145408">
     <groups>
       <group name="Master">
         <method signature="TC001_SearchProductTest.searchProduct()[pri:0, instance:testCase.TC001_SearchProductTest@7b420819]" name="searchProduct" class="testCase.TC001_SearchProductTest"/>
       </group> <!-- Master -->
     </groups>
-    <test started-at="2024-11-12T10:42:33 IST" name="Test" finished-at="2024-11-12T10:45:01 IST" duration-ms="147993">
+    <test started-at="2024-11-12T17:19:56 IST" name="Test" finished-at="2024-11-12T17:22:21 IST" duration-ms="145408">
       <class name="testCase.TC001_SearchProductTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCase.TC001_SearchProductTest@7b420819]" started-at="2024-11-12T10:42:33 IST" name="setUp" finished-at="2024-11-12T10:42:52 IST" duration-ms="18401" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCase.TC001_SearchProductTest@7b420819]" started-at="2024-11-12T17:19:56 IST" name="setUp" finished-at="2024-11-12T17:20:13 IST" duration-ms="17210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchProduct()[pri:0, instance:testCase.TC001_SearchProductTest@7b420819]" started-at="2024-11-12T10:42:52 IST" name="searchProduct" finished-at="2024-11-12T10:45:00 IST" duration-ms="128292" status="PASS">
+        <test-method signature="searchProduct()[pri:0, instance:testCase.TC001_SearchProductTest@7b420819]" started-at="2024-11-12T17:20:13 IST" name="searchProduct" finished-at="2024-11-12T17:22:20 IST" duration-ms="127533" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchProduct -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC001_SearchProductTest@7b420819]" started-at="2024-11-12T10:45:00 IST" name="tearDown" finished-at="2024-11-12T10:45:01 IST" duration-ms="1191" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC001_SearchProductTest@7b420819]" started-at="2024-11-12T17:22:20 IST" name="tearDown" finished-at="2024-11-12T17:22:21 IST" duration-ms="612" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

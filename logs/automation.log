@@ -452,3 +452,86 @@
 2024-11-12 10:43:07 INFO  TC001_SearchProductTest:31 - enter
 2024-11-12 10:43:15 INFO  TC001_SearchProductTest:34 - clicked on search
 2024-11-12 10:45:00 INFO  TC001_SearchProductTest:46 - ****** TC001 not executed successfully ******
+2024-11-12 17:12:25 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\grouping.xml"
+2024-11-12 17:14:43 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:15:32 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:15:41 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:17:29 INFO  TC001_SearchProductTest:60 - ****** TC001 not executed successfully ******
+2024-11-12 17:19:55 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\grouping.xml"
+2024-11-12 17:20:13 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:20:28 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:20:33 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:20:40 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:22:20 INFO  TC001_SearchProductTest:60 - ****** TC001 not executed successfully ******
+2024-11-12 17:23:02 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:23:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:23:16 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:23:30 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:23:35 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:23:43 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:25:23 INFO  TC001_SearchProductTest:60 - ****** TC001 not executed successfully ******
+2024-11-12 17:27:14 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:27:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:27:38 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:27:54 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:27:58 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:28:16 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:29:56 INFO  TC001_SearchProductTest:61 - ****** TC001 not executed successfully ******
+2024-11-12 17:30:44 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:30:44 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:30:56 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:31:09 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:31:16 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:31:21 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:32:41 INFO  TC001_SearchProductTest:61 - ****** TC001 not executed successfully ******
+2024-11-12 17:32:49 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:32:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:33:00 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:33:14 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:33:18 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:33:23 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:34:13 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:34:14 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:34:28 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:34:42 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:34:48 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:34:58 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:35:04 INFO  TC001_SearchProductTest:61 - ****** TC001 not executed successfully ******
+2024-11-12 17:36:38 INFO  TC001_SearchProductTest:61 - ****** TC001 not executed successfully ******
+2024-11-12 17:37:52 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:37:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:38:03 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:38:15 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:38:21 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:38:28 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:39:29 INFO  TC001_SearchProductTest:61 - ****** TC001 not executed successfully ******
+2024-11-12 17:41:03 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:41:03 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:41:14 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:41:27 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:41:32 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:41:39 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:43:04 INFO  TC001_SearchProductTest:62 - ****** TC001 not executed successfully ******
+2024-11-12 17:48:32 DEBUG TestNG:82 - suiteXmlPath: "C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml"
+2024-11-12 17:48:33 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\SIRISHA\eclipse-workspace\Amazon_Case_Study\testng.xml
+
+2024-11-12 17:48:44 INFO  TC001_SearchProductTest:16 - ****** TC001 Searching the product ******
+2024-11-12 17:48:58 INFO  TC001_SearchProductTest:32 - enter
+2024-11-12 17:49:04 INFO  TC001_SearchProductTest:35 - clicked on search
+2024-11-12 17:49:14 INFO  TC001_SearchProductTest:40 - item added to cart
+2024-11-12 17:51:05 INFO  TC001_SearchProductTest:62 - ****** TC001 not executed successfully ******

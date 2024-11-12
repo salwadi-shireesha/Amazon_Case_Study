@@ -15,33 +15,71 @@ public class SearchProduct extends BasePage{
 	@FindBy(xpath="//input[@type='submit']")
 	WebElement clk_search;
 	
-	@FindBy(linkText="Add to cart")
+	@FindBy(xpath="//button[@id='a-autoid-1-announce']")
 	WebElement btn_addtocart;
 	
-	@FindBy(id="nav-cart")
+	@FindBy(id="nav-cart-count-container")
 	WebElement clk_addtocarticon;
 	
-	@FindBy(xpath="//input[@name=\"clk_addtocarticon\"]")
+	@FindBy(xpath="//input[@name=\"proceedToRetailCheckout\"]")
 	WebElement clk_proccedtobuy;
+	
+	@FindBy(xpath="//input[@data-testid='Address_selectShipToThisAddress']")
+	WebElement clk_usethis_address;
+	
+	@FindBy(xpath="//input[@type='radio' ][ @id='pp-glKcdj-100']")
+	WebElement clk_otherpaymentmethod;
+	
+	@FindBy(xpath="//input[@id='pp-glKcdj-114']")
+	WebElement txt_upiid;
+	
+	@FindBy(xpath="//input[@name='ppw-widgetEvent:ValidateUpiIdEvent']")
+	WebElement btn_verify;
+	
+	@FindBy(xpath="//div[@class=\"a-alert-content\"][text()='Verified!']")
+	WebElement txt_verify;
+	
+	@FindBy(xpath="//input[@data-pmts-component-id=\"pp-FFyEnM-6\"]")
+	WebElement clk_usethis_payment;
 	
 	public void clickSearch() {
 		clk_search.click();
 	}
 	
 	public void btnAddtoCart() {
-		JavascriptExecutor js=(JavascriptExecutor)driver;
-		js.executeScript("arguments[0].scrollIntoView(true);",btn_addtocart);
-		
-//		Actions action=new Actions(driver);
-//		action.moveToElement(btn_addtocart).perform();
+		btn_addtocart.click();
 	}
 	
-	public void clkAddtoCartItem() {
+	public void clkAddtoCartIcon() {
 		clk_addtocarticon.click();
 	}
 	
 	public void clkProceedtoBuy() {
 		clk_proccedtobuy.click();
 	}
-
+	
+	public void clkUseThisAddress() {
+		clk_usethis_address.click();
+	}
+	
+	public void clkOtherPaymentMethod() {
+		clk_otherpaymentmethod.click();
+	}
+	
+	public void  setUpi_id(String upi) {
+		txt_upiid.sendKeys(upi);
+		
+		
+	}
+	public void btnVerify() {
+		btn_verify.click();	
+	}
+	
+	public String txtVerify() {
+		return txt_verify.getText();
+	}
+	
+	public void clkUseThisPayment() {
+		clk_usethis_payment.click();
+	}
 }
